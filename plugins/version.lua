@@ -1,16 +1,11 @@
 do
 
 function run(msg, matches)
-  return 'NOD32-BOT v8'.. VERSION .. [[ 
+  return 'PATRICK BOT V '.. VERSION .. [[ 
  
-  Developer : @Behroozyaghi
+  Developer : @RM13790115
   
-  Channel : @Nod32team
-  
-  Open git : https://github.com/BH-YAGHI/NOD32-BOT.git
-  
-  NOD32 VERSION 8
-  
+PATRICKS
   All rights reserved.
   __________________]]
 end
